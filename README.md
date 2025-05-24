@@ -1,18 +1,9 @@
-<h2>✨ Hey there, I’m Amna 🛰🍉</h2>
+<h2>✨ Hey there, I’m Amna 🌙🪐</h2>
 
 I'm a Master's graduate in Computer Science & Data Science based in New York. I build systems that turn raw data, backend logic, and user needs into clear, scalable tools. My work focuses on NLP, AI pipelines, spam detection, and backend automation — always with a human-centered lens.
 
 I enjoy building apps that solve real-world problems (like scam detection tools), creating data pipelines, and improving labeling systems for ML models. Outside of code, I'm curious about design, UX research, and ethical AI.
 
----
-
-### 📊 Coding Activity (via WakaTime)
-
-<!--START_SECTION:waka-->
-<!-- Replace this comment with your WakaTime integration if you have it -->
-<!--END_SECTION:waka-->
-
----
 
 ### 📫 Contact Me
 
@@ -81,21 +72,12 @@ UX-Informed Technical Thinking • Iterative Prototyping • Cross-Functional Co
 
 ---
 
-### 📌 Pinned Projects (You Can Pin These)
+### 📌 Pinned Projects 
 
+- `Parking-Systems-Scheduler` – Paychex-integrated backend schedule generator
 - `TrustTextScanner` – Mobile app to detect scam messages with NLP, regex & UI feedback
 - `ai-spam-detector` – Spam classification with ML & pattern matching
 - `KNN_GLM` – Comparative model analysis using Python & sklearn
-- `Parking-Systems-Scheduler` – Paychex-integrated backend schedule generator
+
 
 ---
-
-> 💡 You can always reach out to collaborate on AI, backend tools, or UX-informed systems.
-"""
-
-# Overwrite README.md with the full expanded version
-with open(readme_path, 'w', encoding='utf-8') as file:
-    file.write(full_readme_expanded)
-
-# Confirm update
-readme_path
