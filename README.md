@@ -1,4 +1,4 @@
-# Hey, I’m Amna 🛰🍉 | Data x Software | UX-Driven | AI-Certified
+# Hey, I’m Amna 🌙🪐 | Data x Software | UX-Driven | AI-Certified
 
 I design systems that turn messy inputs — like unstructured text or vague user needs — into tools people can *actually use*. With a Master’s in CS + Data Science, I blend backend logic, data pipelines, and usability to build meaningful software.
 
