@@ -75,8 +75,11 @@ UX-Informed Technical Thinking • Iterative Prototyping • Cross-Functional Co
 ### 📌 Pinned Projects 
 
 EcoHabit Tracker – React-based habit app promoting sustainable living with analytics & reminders
+
 TrustTextScanner – Mobile app detecting scam messages using NLP, regex & visual reason breakdown
+
 NovaBot – Custom conversational bot rebuilt from scratch with modular logic and new identity
+
 Chat Box Tool – Real-time chat app preserving functionality with all-new source code
 
 
