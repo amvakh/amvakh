@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=BA68C8&center=true&vCenter=true&width=600&lines=Building+intelligent+tools+with+heart.;AI-powered+UX+systems.;Coding+with+empathy+%7C+Engineering+with+purpose."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=I+build+intelligent+tools+with+heart.;NLP%2C+backend%2C+data+pipelines+%E2%9A%A1;UX-driven+engineering+that+makes+sense."/>
 </p>
+
 
 ---
 
