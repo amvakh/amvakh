@@ -1,4 +1,4 @@
-<h1 align="center">🌙 Hey there, I’m <span style="color:#8A2BE2">Amna</span> 🪐</h1>
+<h1 align="center">🌙 Hello World, I’m <span style="color:#8A2BE2">Amna</span> 🪐</h1>
 
 <p align="center">
   <em>CS + Data Science Grad in NYC · Human-centered systems · AI x UX x Backend</em>  
