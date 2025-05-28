@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F73E8E&center=true&vCenter=true&width=550&lines=Master's+in+CS+%2B+Data+Science.;Scam+Detection+%7C+UX+%7C+Backend+Automation.;Designing+with+intention%2C+coding+with+care."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F73E8E&center=true&vCenter=true&width=550&lines=Master's+in+CS+%2B+Data+Science.;Scam+Detection+%7C+UX+%7C+Backend+Automation.; Designing+with+intention%2C+coding+with+care."/>
 </p>
 
 ---
