@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=I+build+intelligent+tools+with+heart.;NLP%2C+backend%2C+data+pipelines+%E2%9A%A1;UX-driven+engineering+that+makes+sense."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=I+build+intelligent+tools.;NLP%2C+backend%2C+data+pipelines+%E2%9A%A1;UX-driven+engineering+that+makes+sense."/>
 </p>
 
 
