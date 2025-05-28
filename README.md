@@ -1,89 +1,87 @@
-<h1 align="center">✨ Hello, I’m <span style="color:#FF69B4">Amna</span> 🌙🪐</h1>
+<h1 align="center">🌌 Hello, I’m <span style="color:#A020F0;font-family:monospace;">Amna</span> 🚀</h1>
 
 <p align="center">
-  <em>Engineer of vibes ✨ · Turning data + code into magic · Based in NYC 🗽</em>  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F37EB2&vCenter=true&width=600&lines=🧠+AI+%7C+UX+%7C+Code+%7C+Data.;📱+Crafting+useful%2C+beautiful+tech.;🌍+NYC-based+CS+%2B+DS+grad+creating+impactful+tools."/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F73E8E&center=true&vCenter=true&width=550&lines=Master's+in+CS+%2B+Data+Science.;Scam+Detection+%7C+UX+%7C+Backend+Automation.; Designing+with+intention%2C+coding+with+care."/>
+  <img src="https://media.giphy.com/media/kT3hNXk3l4Fv5zWv4F/giphy.gif" width="100" height="100"/>
 </p>
 
 ---
 
-### 🌠 About Me
+### Who Am I
 
-I'm a Master's grad in **Computer Science & Data Science**, crafting digital tools that feel intuitive and hit hard. My code isn’t just functional — it’s thoughtful. 
+I'm a **CS + Data Science grad** from NYC, building **intelligent systems** that actually help people. I blend tech with empathy — from backend automation to spam detection to clean UX. I build tools that solve problems *quietly and powerfully*.
 
-💥 I specialize in:
-- ⚡ NLP & scam detection
-- 🔄 AI pipelines & backend automation
-- 🧠 UX-informed engineering & ML labeling systems
+🎯 Highlights:
+- 🌐 Backend that feels front-row
+- 🧠 NLP & ML with built-in feedback loops
+- 💬 UX + AI with a conscience
 
-Outside the terminal, you’ll catch me geeking out on Figma designs, ethical AI reads, or deconstructing what makes a product feel *right*.
+I care about design systems, human-first data labeling, and projects that do more than just *work* — they *connect*.
 
 ---
 
-### 📫 Let's Connect
+### 🔗 Let's Sync
 
-<p align="left">
-  <a href="https://linkedin.com/in/amvakh"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://amvakh.co"><img src="https://img.shields.io/badge/-Portfolio-111111?style=for-the-badge&logo=vercel"></a>
-  <a href="https://github.com/amvakh"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<p align="center">
+  <a href="https://linkedin.com/in/amvakh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://amvakh.co"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/amvakh"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### ⚙️ Tech Playground
+### 🧃 Tech Stack Vibes
 
-#### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+#### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
+![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🧰 Frameworks / Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+#### 🔧 Frameworks / Platforms
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=cyan)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=green)
+![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green)
 
-#### 🛠 Dev & Collab
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+#### 💡 Collab & Tools
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/PowerBI-black?style=for-the-badge&logo=powerbi&logoColor=yellow)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-### 🔮 My Stack Flow
+### 🧪 Stack at a Glance
 
 ```yaml
-Frontend:
-  - React / React Native / HTML / Tailwind / Figma
-Backend:
-  - Node.js / Express / Firebase / MongoDB / SQLite
-NLP & AI:
-  - scikit-learn / TextBlob / Pandas / Custom Label Systems
-Visualization:
-  - SQL / Power BI / Tableau / Google Sheets Charts
+UI / UX:
+  - React, React Native, Figma, Tailwind CSS
+Data & AI:
+  - NLP, Pandas, TextBlob, Scikit-learn, Regex
+Backends:
+  - Node.js, Express.js, Firebase, MongoDB, SQLite
 Tooling:
-  - GitHub / Notion / Jira / VS Code / Slack
+  - GitHub, Jira, VS Code, Slack, Notion
+Deployment:
+  - Firebase Hosting, GitHub Pages, CLI workflows
 ```
 
 ---
 
-### 🔥 Featured Projects
+### 🚨 Projects That Hit
 
-**EcoHabit Tracker** – Sustainability tracker with stats + reminders (React)
+🔒 **TrustTextScanner** — NLP-powered scam detector that shows you the *why* 🕵️‍♀️
 
-**TrustTextScanner** – Scam detector app with NLP + regex explanations (React Native)
+🌱 **EcoHabit Tracker** — React app for building mindful, sustainable routines 💚
 
-**NovaBot** – Fully rebuilt modular chatbot with new identity (JavaScript)
+🤖 **NovaBot** — Conversational AI bot with a modular brain + custom flavor 🌟
 
-**Chat Box Tool** – Real-time chat tool, rewritten clean from scratch (Node + Socket.io)
+💬 **Chat Box Tool** — Rewritten real-time chat tool, same soul, cleaner code ⚡
 
 ---
 
-> 🎧 *Code with feeling, ship with impact.*
-
+> ✨ *I code to connect. I design to empower. I debug to learn.*
