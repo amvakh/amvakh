@@ -1,86 +1,90 @@
-<h2>✨ Hey there, I’m Amna 🌙🪐</h2>
+<h1 align="center">🌙 Hey there, I’m <span style="color:#8A2BE2">Amna</span> 🪐</h1>
 
-I'm a Master's graduate in Computer Science & Data Science based in New York. I build systems that turn raw data, backend logic, and user needs into clear, scalable tools. My work focuses on NLP, AI pipelines, spam detection, and backend automation — always with a human-centered lens.
+<p align="center">
+  <em>CS + Data Science Grad in NYC · Human-centered systems · AI x UX x Backend</em>  
+</p>
 
-I enjoy building apps that solve real-world problems (like scam detection tools), creating data pipelines, and improving labeling systems for ML models. Outside of code, I'm curious about design, UX research, and ethical AI.
-
-
-### 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amvakh)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://amvakh.co)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/amvakh)
----
-
-### 💻 Languages & Tools
-
-#### Languages
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-
-#### Tools & Frameworks
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-#### Tools & Platforms
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=I+build+intelligent+tools+with+heart.;NLP%2C+backend%2C+data+pipelines+%E2%9A%A1;UX-driven+engineering+that+makes+sense."/>
+</p>
 
 ---
 
-### 🧠 Full Skills Overview
+### 🌌 About Me
 
-#### 🗣️ Languages
-Python • Java • JavaScript (ES6+) • SQL • TypeScript • HTML5 • CSS3 • Markdown • JSON
+I’m a **Master’s grad in Computer Science & Data Science**, based in NYC, blending data, backend logic, and usability into scalable tools.  
+My jam? Turning messy inputs into products people *actually* use.
 
-#### 🎨 Frontend Development
-React • React Native (Expo) • Bootstrap • Tailwind CSS • HTML/CSS/JS • Responsive Web Design • UI State Management • Figma (UX/UI Collaboration)
+🧠 I work on:  
+- ✨ NLP & spam detection  
+- 🔁 Backend automation & AI pipelines  
+- 🧩 Labeling systems that shape ML outcomes  
 
-#### ⚙️ Backend & API Development
-Node.js • Express.js • REST API Design • SQLite • Firebase (Realtime DB + Auth) • MongoDB • Paychex API (mock integration) • JWT (JSON Web Tokens)
-
-#### 🤖 AI / Data Science / NLP
-Scikit-learn • Pandas • NumPy • TextBlob • Regex-based Text Parsing • AI Data Annotation (Image + Text) • Spam Detection Models (Rule-based + ML) • NLP Labeling System Design • Data Preprocessing & Cleaning • ML Workflow Evaluation (KNN, GLM, etc.)
-
-#### 📊 Data Tools & Visualization
-SQL (MySQL, SQLite) • Power BI • Tableau • Google Sheets (Formulas + Charts) • Data Label QA / Feedback Loop Design
-
-#### 🧰 Dev Tools & Collaboration
-Git / GitHub • VS Code • Jira • Trello • Slack • Notion • Google Workspace
-
-#### 🧪 Testing & Automation
-Manual QA & UAT Scenarios • Functional Testing (React Native) • Python Scripting (Efficiency & Automation) • Spreadsheet Automation • Lightweight Test Scripts
-
-#### 🚀 Deployment & Versioning
-Git version control (CLI + GitHub) • npm / Node-based project setup • Firebase Hosting (basic) • GitHub Pages (for static sites)
-
-#### 🌱 Soft Skills & Habits
-UX-Informed Technical Thinking • Iterative Prototyping • Cross-Functional Collaboration • Technical Writing • Task Prioritization (Agile-style) • Detail-Oriented QA & Labeling • Data-Driven Decision Making • Communicating Across Technical/Non-Technical Teams
+💡 Outside code, I love exploring **UX research**, ethical AI, and design systems that make tech more *human*.
 
 ---
 
-### 📌 Pinned Projects 
+### 🔗 Connect with Me
 
-EcoHabit Tracker – React-based habit app promoting sustainable living with analytics & reminders
-
-TrustTextScanner – Mobile app detecting scam messages using NLP, regex & visual reason breakdown
-
-NovaBot – Custom conversational bot rebuilt from scratch with modular logic and new identity
-
-Chat Box Tool – Real-time chat app preserving functionality with all-new source code
-
+<p align="left">
+  <a href="https://linkedin.com/in/amvakh"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://amvakh.co"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/amvakh"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
+
+### 🧰 Tech Stack Highlights
+
+#### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### ⚙️ Tools & Frameworks  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🛠 Dev & Collaboration  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Pinned Projects
+
+> 🧠 Tools with purpose, code with clarity.
+
+- **EcoHabit Tracker** – React app for tracking eco-friendly habits, reminders + visual analytics  
+- **TrustTextScanner** – Scam message detector powered by NLP, regex, and visual explanation UX  
+- **NovaBot** – Fully rebranded conversational AI bot, modular logic, fresh identity  
+- **Chat Box Tool** – Real-time chat UI rebuilt from scratch with all-new functional code
+
+---
+
+### 🔍 Full Stack & Specialties
+
+```yaml
+Frontend:
+  - React, React Native (Expo), HTML/CSS, Tailwind, Bootstrap, Figma
+
+Backend:
+  - Node.js, Express.js, Firebase, SQLite, MongoDB, REST APIs
+
+AI & NLP:
+  - scikit-learn, Pandas, Regex Parsing, Annotation Systems, Spam Detection
+
+Data & Viz:
+  - SQL, Power BI, Tableau, Google Sheets Automation
+
+DevOps:
+  - Git/GitHub, Firebase Hosting, GitHub Pages, VS Code
+
+Soft Skills:
+  - UX-Driven Engineering, Agile Mindset, Clear Communication
