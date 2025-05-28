@@ -1,85 +1,90 @@
-<h1 align="center">🌙✨ Hello World, I’m <span style="color:#A855F7">Amna</span> 🪐</h1>
+<h1 align="center">🌙✨ Hello, I’m <span style="color:#8A2BE2">Amna</span> 🪐</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF61D4&vCenter=true&width=600&lines=Master's+in+CS+%2B+Data+Science+%F0%9F%93%9A;AI+Engineer+%7C+UX+Dev+%7C+Data+Nerd+%F0%9F%94%AC;I+build+useful+tech+for+real+people.%F0%9F%92%BB"/>
+  <em>NY-based CS + Data Science Grad · AI x UX x Backend · Human-Centered Everything 💡</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=BA68C8&center=true&vCenter=true&width=600&lines=Building+intelligent+tools+with+heart.;AI-powered+UX+systems.;Coding+with+empathy+%7C+Engineering+with+purpose."/>
 </p>
 
 ---
 
-### 💫 About Me
+### 🌠 About Me
 
-🎓 Based in NYC, I'm a **CS + Data Science grad** building human-centered software that actually helps people.
+🎓 I'm a **Master’s grad in Computer Science & Data Science**, with a passion for crafting tools that turn complex input into meaningful experiences.
 
-💡 I create:
-- 💬 NLP tools that explain *why*, not just what
-- 🔧 Backend systems that do the hard work quietly
-- 🎨 UX-driven apps with an eye for detail
+🛠 My expertise blends:
+- ✨ NLP & scam detection that *explains*, not just flags
+- 🔁 Backend automation & real-time AI pipelines
+- 🧩 Labeling workflows that move ML outcomes
 
-I love pairing tech with intuition — and bridging code with context.
+💬 On the side, I explore **ethical AI**, **UX strategy**, and **design systems that make sense**.
 
 ---
 
-### 📬 Let’s Connect
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/amvakh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://amvakh.co"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/amvakh"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/amvakh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://amvakh.co"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/amvakh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-### 🔧 Tech Stack Snapshot
+### 🧰 Tech Stack Highlights
 
-#### 🔤 Languages
+#### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🧱 Frameworks & Libraries
+#### ⚙️ Tools & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### 🛠 Dev & Workflow
+#### 🛠 Dev & Collab
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🌱 Skills in Action
+### 🚀 Featured Projects
+
+> 🧠 Thoughtfully built. Purposefully coded.
+
+- **EcoHabit Tracker** – Sustainable lifestyle tracker with analytics, built in React
+- **TrustTextScanner** – NLP-based mobile tool that detects scam messages *and explains why*
+- **NovaBot** – Conversational bot rewritten with modular logic + sleek new identity
+- **Chat Box Tool** – Functional chat app with real-time socket features, rebuilt from scratch
+
+---
+
+### 🔍 Full Stack & Specialties
 
 ```yaml
 Frontend:
-  React, React Native, Tailwind, Bootstrap, Figma
+  React, React Native, HTML/CSS, Tailwind, Bootstrap, Figma
+
 Backend:
-  Node.js, Express.js, Firebase, MongoDB, SQLite
-AI + NLP:
-  Scikit-learn, TextBlob, Pandas, Regex Parsing, Custom Label Systems
-Visualization:
-  SQL, Power BI, Tableau, Google Sheets + Charts
-Tooling:
-  GitHub, VS Code, Jira, Notion, Slack
+  Node.js, Express.js, Firebase, SQLite, MongoDB, REST APIs
+
+AI & NLP:
+  scikit-learn, Pandas, Regex Parsing, Spam Detection, Annotation Systems
+
+Data & Visualization:
+  SQL, Power BI, Tableau, Google Sheets Automation
+
+DevOps & Tooling:
+  Git, GitHub, Firebase Hosting, GitHub Pages, VS Code
+
+Soft Skills:
+  UX-Informed Engineering, Clear Communication, Agile Teamwork, Rapid Prototyping
 ```
-
----
-
-### 🚀 Projects
-
-🔐 **TrustTextScanner** — NLP mobile app that detects scam messages & *explains why*
-
-🌿 **EcoHabit Tracker** — Sustainability-focused habit tracker w/ analytics + reminders
-
-🤖 **NovaBot** — Custom conversational bot with modular, intelligent responses
-
-💬 **Chat Box Tool** — Rebuilt chat app with new structure, same real-time power
-
----
-
-> 🌟 "Design like a storyteller, code like an architect, test like a skeptic."
-
