@@ -71,6 +71,10 @@
 ### 🔍 Full Stack & Specialties
 
 ```yaml
+
+Programming:
+Python, Java, JavaScript,  TypeScript
+
 Frontend:
   React, React Native, HTML/CSS, Tailwind, Bootstrap, Figma
 
@@ -86,6 +90,4 @@ Data & Visualization:
 DevOps & Tooling:
   Git, GitHub, Firebase Hosting, GitHub Pages, VS Code
 
-Soft Skills:
-  UX-Informed Engineering, Clear Communication, Agile Teamwork, Rapid Prototyping
 ```
